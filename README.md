@@ -26,7 +26,7 @@ También implementa validaciones tanto del lado del cliente (JavaScript) como de
 
 ## Repositorio público en GitHub
 
-[https://github.com/stivenangucho/prueba-tecnica-desarrollador]
+https://github.com/stivenangucho/prueba-tecnica-desarrollador
 
 ---
 
