@@ -48,37 +48,37 @@ prueba-nexura/
 
 ├── assets/
 
-│ └── style.css
+      │ └── style.css
 
 ├── config/
 
-│ └── conexion.php
+      │ └── conexion.php
 
-│ └── config.php
+      │ └── config.php
 
 ├── controllers/
 
-│ └── actualizar.php
+      │└── actualizar.php
 
-│ └── eliminar.php
+      │└── eliminar.php
 
-│ └── guardar.php
+      │└── guardar.php
 
 ├── db/
 
-│ └── base_datos_nexura.sql
+      │└── base_datos_nexura.sql
 
 ├── models/
 
-│ └── empleado.php
+      │└── empleado.php
 
 ├── views/
 
--|── empleados/
+      |── empleados/
 
-      │└── crear.php
+            │└── crear.php
 
-      │└── editar.php
+            │└── editar.php
 
 |── index.php
 
