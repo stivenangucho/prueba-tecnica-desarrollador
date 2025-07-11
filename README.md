@@ -74,15 +74,15 @@ prueba-nexura/
 
 ├── views/
 
-└── empleados/
+--|── empleados/
 
-│ └── crear.php
+--│ └── crear.php
 
-│ └── editar.php
+--│ └── editar.php
 
 ├── index.php
 
-└── README.md
+|── README.md
 
 ---
 
