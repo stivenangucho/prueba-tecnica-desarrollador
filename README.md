@@ -89,7 +89,9 @@ prueba-nexura/
 ## Autor
 
 Stiven Angucho Valencia
+
 anguchostiven@gmail.com
+
 Julio 2025
 
 ---
