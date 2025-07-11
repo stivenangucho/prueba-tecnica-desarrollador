@@ -74,7 +74,7 @@ prueba-nexura/
 
 ├── views/
 
-  - |── empleados/
+-|── empleados/
 
       │└── crear.php
 
