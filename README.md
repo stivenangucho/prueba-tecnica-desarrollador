@@ -1,6 +1,6 @@
 # Prueba Técnica - CRUD de Empleados en PHP + MySQL
 
-Este proyecto consiste en un sistema web para la gestión de empleados que permite registrar, listar, editar y eliminar empleados, incluyendo validaciones del lado del cliente y del servidor. Desarrollado como parte de una prueba técnica.
+Este proyecto fue desarrollado como prueba técnica para demostrar habilidades en desarrollo web con PHP, programación orientada a objetos, uso de base de datos relacional (MySQL), validación de formularios y diseño responsivo.
 
 ---
 
@@ -30,4 +30,54 @@ https://github.com/stivenval06/prueba-nexura
 
 ---
 
+## Requisitos para ejecutar
+
+1. Tener XAMPP o similar instalado
+2. Clonar o copiar el proyecto en `C:/xampp/htdocs/prueba-nexura`
+3. Iniciar Apache y MySQL desde XAMPP
+4. Crear una base de datos llamada `base_datos_nexura`
+5. Importar el archivo SQL ubicado en:  
+   `db/base_datos_nexura`
+6. Abrir en el navegador:  
+   `http://localhost/prueba-nexura`
+
+---
+
 ## Estructura del proyecto
+prueba-nexura/
+
+├── index.php
+
+├── crear.php
+
+├── editar.php
+
+├── guardar.php
+
+├── actualizar.php
+
+├── eliminar.php
+
+├── conexion.php
+
+├── empleado.php
+
+├── assets/
+
+│ └── style.css
+
+├── db/
+
+│ └── base_datos_nexura.sql
+
+└── README.md
+
+---
+
+## Autor
+
+Stiven Angucho Valencia
+anguchostiven@gmail.com
+Julio 2025
+
+---
