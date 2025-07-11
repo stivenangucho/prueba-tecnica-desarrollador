@@ -49,13 +49,13 @@ prueba-nexura/
 
 ├── assets/
 
-      │ └── style.css
+      │└── style.css
 
 ├── config/
 
-      │ └── conexion.php
+      │└── conexion.php
 
-      │ └── config.php
+      │└── config.php
 
 ├── controllers/
 
