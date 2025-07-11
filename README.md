@@ -46,29 +46,41 @@ https://github.com/stivenval06/prueba-nexura
 ## Estructura del proyecto
 prueba-nexura/
 
-├── index.php
-
-├── crear.php
-
-├── editar.php
-
-├── guardar.php
-
-├── actualizar.php
-
-├── eliminar.php
-
-├── conexion.php
-
-├── empleado.php
-
 ├── assets/
 
 │ └── style.css
 
+├── config/
+
+│ └── conexion.php
+
+│ └── config.php
+
+├── controllers/
+
+│ └── actualizar.php
+
+│ └── eliminar.php
+
+│ └── guardar.php
+
 ├── db/
 
 │ └── base_datos_nexura.sql
+
+├── models/
+
+│ └── empleado.php
+
+├── views/
+
+└── empleados/
+
+│ └── crear.php
+
+│ └── editar.php
+
+├── index.php
 
 └── README.md
 
