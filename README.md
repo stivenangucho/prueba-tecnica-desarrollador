@@ -6,7 +6,7 @@ Este proyecto fue desarrollado como prueba técnica para demostrar habilidades e
 
 ## Tecnologías utilizadas
 
-- **PHP** (puro, sin frameworks)
+- **PHP** 
 - **MySQL**
 - **HTML5, CSS3, JavaScript**
 - **Apache (XAMPP) entorno de desarrollo local**
