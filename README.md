@@ -33,12 +33,13 @@ https://github.com/stivenangucho/prueba-tecnica-desarrollador
 ## Requisitos para ejecutar
 
 1. Tener XAMPP o similar instalado
-2. Clonar o copiar el proyecto en `C:/xampp/htdocs/prueba-nexura`
-3. Iniciar Apache y MySQL desde XAMPP
-4. Crear una base de datos llamada `base_datos_nexura`
-5. Importar el archivo SQL ubicado en:  
+2. Descargar y descomprimir el archivo .zip
+3. Clonar o copiar los archivos del proyecto que se descomprimieron en `C:/xampp/htdocs/`
+4. Iniciar Apache y MySQL desde XAMPP
+5. Crear una base de datos llamada `base_datos_nexura`
+6. Importar el archivo SQL ubicado en:  
    `db/base_datos_nexura`
-6. Abrir en el navegador:  
+7. Abrir en el navegador:  
    `http://localhost/prueba-nexura`
 
 ---
